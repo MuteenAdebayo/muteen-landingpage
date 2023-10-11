@@ -275,7 +275,6 @@ padding-left: 20px;
 
 }
 .Tech--content{
-    /* padding-left: 200px; */
     margin-left: 20px;
 }
 
@@ -317,13 +316,7 @@ h3{
     padding-left: 25px;
 padding-bottom: 80px;
 }
-/* .web-creation{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    gap: 30px; */
-   
-}
+
 .web-creation{
     display: block;
     align-items: center;
@@ -377,7 +370,6 @@ margin-top: 20px;
     .footer--content{
         display: inline-block;
         flex-direction: column;
-        /* grid-template-columns: repeat(5,1fr); */
     }
     .footer--content h4{
         padding-left: 40px;
@@ -665,4 +657,5 @@ web--image h4{
    color: grey;
    margin-top: 20px;
 } 
+}
 }
